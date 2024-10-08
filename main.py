@@ -7,7 +7,7 @@ from processing.display import Main
 # Setting the wide mode as default
 st.set_page_config(layout="wide")
 # Adding background image
-bg_image_url = "https://t3.ftcdn.net/jpg/02/97/91/38/240_F_297913876_pxLCVBrLEyznyqdHvNpKmNRPvYWoqlEW.jpg"
+bg_image_url = "https://wallpapers.com/images/hd/elegantly-dark-navy-blue-background-ida2go5gk0suip26.jpg"
 st.markdown(
     f"""
     <style>
@@ -322,7 +322,7 @@ def main():
     }
     </style>
     <div class="footer">
-        Made by Srijan Arya | <a href="https://github.com/Srijan-Arya" target="_blank">Github</a>
+        Made by Kirti Swarup | <a href="https://github.com/KirtiSwarup" target="_blank">Github</a>
     </div>
     """, unsafe_allow_html=True)
 
